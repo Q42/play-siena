@@ -3,6 +3,12 @@ Siena support for Play! Framework v2.x
 
 The siena module automatically enables [Siena](http://www.sienaproject.com) support for your application for GAE/MySQL/PostgreSQL/H2 databases.
 
+Deployment
+--------------------
+
+command-line: `play deps` followed by `play build-module` within the root directory
+
+
 Release notes
 --------------------
 
